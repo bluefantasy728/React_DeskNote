@@ -1,0 +1,9 @@
+.editing, .reading{
+    height: 100%;
+    /*border: 2px solid orangered;*/
+}
+.text-field{
+    width: 250px;
+    height: 300px;
+    border: 1px solid cornflowerblue;
+}

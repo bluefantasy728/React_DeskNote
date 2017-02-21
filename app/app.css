@@ -1,0 +1,15 @@
+#wrap{
+    width: 80%;
+    height: 700px;
+    margin: 20px auto;
+    border: 1px solid black;
+}
+.left-side{
+    width: 30%;
+    float: left;
+}
+
+.right-side{
+    width: 65%;
+    float: right;
+}

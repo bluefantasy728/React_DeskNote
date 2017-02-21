@@ -1,0 +1,7 @@
+.text-list .list-item{
+    width: 100px;
+    border: 1px solid darkblue;
+    padding: 5px;
+    list-style: none;
+    cursor: pointer;
+}
